@@ -1,0 +1,14 @@
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment.deps.json
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment.runtimeconfig.json
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment.dll
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment.pdb
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.AssemblyInfoInputs.cache
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.AssemblyInfo.cs
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.csproj.CoreCompileInputs.cache
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.dll
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/refint/Mission2Assignment.dll
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.pdb
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.genruntimeconfig.cache
+/Users/karensakuma/RiderProjects/Mission2Assignment/Mission2Assignment/obj/Debug/net8.0/ref/Mission2Assignment.dll
